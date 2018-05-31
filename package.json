@@ -1,0 +1,9 @@
+{
+  "name": "arduino-server",
+  "version": "0.0.0",
+  "dependencies": {
+    "@serialport/parser-readline": "^1.0.5",
+    "serialport": "^6.2.0",
+    "socket.io-client": "^2.1.1"
+  }
+}
